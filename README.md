@@ -1,4 +1,4 @@
-## Hi, there 👋
+## Hello, World 👋
 
 ### Github Stats⚡️
 ![jinoov's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinoov&hide=contribs,prs)
